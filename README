@@ -1,1 +1,7 @@
 See vim-addon-actions
+
+Notes: The jedit plugin has a nifty tool which views the pdf letting you click
+on notes then jumping to the code nearby the note you clicked on. Maybe there
+is a way to make it work with Vim?
+
+Also snippets should be added.
