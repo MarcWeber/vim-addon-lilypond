@@ -1,0 +1,11 @@
+{
+  "name" : "vim-addon-lilypond",
+  "version" : "0.1",
+  "author" : "Marc Weber <marco-oweber@gmx.de>",
+  "maintainer" : "Marc Weber <marco-oweber@gmx.de>",
+  "repository" : {"type": "git", "url": "git://github.com/MarcWeber/vim-haxe.git"},
+  "dependencies" : {
+    "vim-addon-actions": {},
+  },
+  "description" : "actions for lilypond"
+}
